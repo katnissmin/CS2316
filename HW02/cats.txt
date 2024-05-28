@@ -1,0 +1,98 @@
+breed	type	body_type	coat_type	coat_pattern
+Abyssinian	Natural	Semi-foreign	Short	Ticked tabby
+Aegean	Natural	Moderate	Semi-long	Multi-color
+American Bobtail	Mutation	Cobby	Semi-long	All
+American Curl	Mutation	Semi-foreign	Semi-long	All
+American Ringtail	Mutation	Foreign	Semi-long	All
+American Shorthair	Natural	Cobby	Short	All
+American Wirehair	Mutation	Normal	Rex	All
+Aphrodite Giant	Natural	Lean and muscular	All	All
+Arabian Mau	Natural	Moderate and muscular	Short	All
+Asian	Natural	Moderate	Short	Evenly solid
+Asian Semi-longhair	Crossbreed between the Burmese and long-haired cats	Cobby	Semi-long	Evenly solid
+Australian Mist	Crossbreed between the Abyssinian and Burmese	Moderate	Short	Spotted or marbled
+Balinese	Mutation of the Siamese	Semi-foreign	Long	Colorpoint
+Bambino	Crossbreed between the Munchkin and Sphynx	Dwarf	Rex	
+Birman	The original Birman was crossed with the Siamese and the Persian to create the Birman of today.	Cobby	Semi-long	Mitted colorpoint
+Bombay	Crossbreed between the Black American Shorthair and Sable Burmese	Cobby	Short	Solid black
+Brazilian Shorthair	Natural	Normal	Short	All
+British Longhair	Natural	Cobby	Semi-long	All
+British Shorthair	Natural	Cobby	Short	All
+Burmese	Natural	Semi-foreign or semi-cobby	Short	Solid or Tortoiseshell
+Burmilla	Crossbreed between the Brown Tortie Burmese and the Chinchilla Persian	Semi-cobby	Short	Solid with Shaded Silver and Silver Tipped patterns
+California Spangled	"Crossbreed between the Abyssinian, American Shorthair and British Shorthair"	Moderate	Short	Spotted tabby
+Chantilly-Tiffany	Natural	Cobby	Long	"Solid, classic tabby, spotted tabby and ticked tabby"
+Chartreux	Natural	Muscular; cobby	Short	Comes in varying shades of blue
+Colorpoint Shorthair	"Crossbreed between the Abyssinian, Siamese and short-haired cats"	Foreign	Short	Colorpoint
+Cornish Rex	Mutation	Foreign	Rex	All
+"Cymric, Manx Longhair or Long-haired Manx"	Mutation of the Manx	Semi-cobby	Long	All
+Cyprus	Natural	Lean and muscular	All	All
+Devon Rex	Mutation	Semi-foreign	Rex	All
+Donskoy orDon Sphynx	Mutation	Semi-foreign	Hairless	Solid
+Dragon Li orChinese Li Hua	Natural	Normal	Short	Ticked tabby
+Dwelf	"Crossbreed between the American Curl, Munchkin and Sphynx"	Dwarf	Hairless	All
+Egyptian Mau	Natural	Moderate and muscular	Short	Spotted tabby
+European Shorthair	Natural	Moderate	Short	All
+Exotic Shorthair	Crossbreed between the American Shorthair and Persian	Cobby	Short	All
+Foldex	Crossbreed between the Exotic Shorthair and Scottish Fold	Cobby	Short	All
+German Rex	Mutation	Semi-foreign	Rex	All
+Havana Brown	Crossbreed between the Siamese and black short-haired cats	Semi-foreign	Short	Solid brown
+Highlander	Crossbreed between the Desert Lynx and Jungle Curl	Moderate	Short/long	All
+Himalayan orColorpoint Persian	Crossbreed between the Persian and Siamese	Cobby	Long	Colorpoint
+Japanese Bobtail	Mutation	Moderate	Short/long	All
+Javanese orColorpoint Longhair	"Crossbreed between the Balinese (with some Colorpoint Shorthair), Oriental Longhair and Siamese"	Oriental	Long	Colorpoint
+Khao Manee	Natural	Moderate	Short	Solid white
+Kinkalow	Crossbreed between the Munchkin and American Curl	Dwarf	Short	All
+Korat	Natural	Semi-foreign or semi-cobby and muscular	Short	Solid blue
+Korean Bobtail	"Natural, mutation"	Moderate	Short/long	Colorpoint
+Korn Ja	Natural	Small	Short	Solid black
+Kurilian Bobtail orKuril Islands Bobtail	"Natural, mutation"	Semi-cobby	Short/long	All
+Lambkin	Crossbreed between the Munchkin and Selkirk Rex	Dwarf	Rex	All
+LaPerm	Mutation	Moderate	Rex	All
+Lykoi	Mutation	Moderate	Hairless	Solid black roan
+Maine Coon	"Natural, crossbreed"	Large	Semi-long to long	All
+Manx	Mutation	Moderate	Short/long	All
+Mekong Bobtail	Mutation	Moderate	Short	Colorpoint
+Minskin	Crossbreed between the Munchkin and Sphynx	Dwarf	Hairless	All
+Minuet	Crossbreed between the Persian and Munchkin	Dwarf	Short/Long	All
+Munchkin	Mutation	Dwarf	Short/long	All
+Nebelung	"Natural, mutation"	Foreign	Semi-long	Solid blue
+Norwegian Forest Cat	Natural	Cobby	Long	All but colorpoint
+Ocicat	"Crossbreed between the Abyssinian, American Shorthair and Siamese"	Large	Short	Spotted tabby
+Ojos Azules	Crossbreed	Moderate	Short	All
+Oregon Rex(extinct)	Mutation		Rex	
+Oriental Bicolor	Color variety of the Oriental Shorthair	Oriental	Short	Bicolor
+Oriental Longhair	Crossbreed between the Oriental Shorthair and long-haired cats	Oriental	Semi-long	"All; if colorpoint is considered to be a separate breed, it is called the Javanese"
+Oriental Shorthair	Crossbreed between the European Shorthair and Siamese	Oriental	Short	All
+Persian (modern)	Mutation of the Traditional Persian	Cobby	Long	All but colorpoint
+Persian (traditional)	"Natural, but some crossbreeding with the Turkish Angora"	Cobby	Long	All but colorpoint
+Peterbald	"Crossbreed between the Donskoy, Oriental Shorthair and Siamese;before this, it was between the Balinese and Javanese"	Oriental	"Hairless, velour, brush, or straight coat"	All
+Pixie-bob	Mutation (falsely claimed to be a bobcat hybrid early on)	Medium	Short	Spotted tabby
+Ragamuffin orLiebling (obsolete)	"Crossbreed between the Ragdoll with limited out-crossing to the Himalayan, the Persian, and other long-haired cats"	Cobby	Long	All
+Ragdoll	"Behavioral mutation in a crossbreed, presumed to be between the Persian or Turkish Angora and the Birman or Burmese"	Cobby	Long	"Colorpoint, mitted, or bicolor"
+Raas	Natural	Moderate	Short	"Solid blue, solid cinnamon, or cinnamon colorpoint"
+Russian Blue	Natural	"Moderate, Oriental"	Short	Solid blue
+"Russian White, Russian Black and Russian Tabby"	"Crossbreeds between the Russian Blue and short-haired cats from Siberia, Russia"	Moderate	Short	"Solid white, solid black and tabby"
+Sam Sawet	Color variety of the Thai	Moderate	Short	Solid
+Scottish Fold	Mutation of the bones and cartilage of the ears	Cobby	Short/long	All
+Selkirk Rex	"Mutation/crossbreed between the American Shorthair, Persian, Himalayan, Exotic Shorthair and British Shorthair"	Large and cobby	"Short/long (longhair, sometimes in early generations, can appear to be semi-long)"	All
+Serengeti	Crossbreed/hybrid between the Bengal and Oriental Shorthair	Oriental	Short	Spotted
+Serrade Petit	Natural	Semi-cobby	Short	"Solid tan, solid orange and solid white"
+"Siamese (modern)(for traditional, see Thai below)"	Mutation of the Thai	Oriental	Short	Colorpoint
+Siberian orSiberian Forest Cat;Neva Masquerade (colorpoint variety)	Natural	Semi-cobby	Semi-long	All
+Singapura	"Possibly a mutation of a crossbreed (excluding the Munchkin), solving why they’re so small"	Small	Short	Ticked tabby
+Snowshoe	Crossbreed between the American Shorthair and Siamese	Moderate	Short	Mitted colorpoint
+Sokoke	Natural	Moderate	Short	Ticked tabby
+Somali	Mutation	Cobby	Long	Ticked tabby
+Sphynx	Mutation	Oriental	Hairless	All
+Suphalak	Natural	Moderate	Short	Solid reddish-brown
+"Thai orTraditional, Classic, or Old-style Siamese;Wichien Maat"	Natural	Moderate	Short	Colorpoint
+"Thai Lilac, Thai Blue Point and Thai Lilac Point"	Color varieties of the Korat	Moderate	Short	Solid lilac and colorpoint (blue point and lilac point only)
+Tonkinese	Crossbreed between the Burmese and Siamese	Oriental	Short	"Colorpoint, mink, or solid"
+Toybob	Mutation	Dwarf	Short	all
+Toyger	Crossbreed/hybrid between the Bengal and short-haired cats	Moderate	Short	Mackerel tabby
+Turkish Angora	Natural	Semi-cobby	Semi-long	All
+Turkish Van	Natural	Semi-cobby	Semi-long	Van pattern
+Turkish Vankedisi	Natural	Svelte	Long	Solid white
+Ukrainian Levkoy	Crossbreed between the Donskoy and Scottish Fold	Moderate	Hairless	Solid gray
+York Chocolate	Natural	Moderate	Long	"Solid chocolate, solid lilac and solid taupe or any of these colors with white"
